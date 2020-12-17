@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b8bd287-3961-4ed2-b8a5-1b1adc321125" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="5ab3ca09-c145-414a-acc2-977abee6d2cb" name="xampp" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1ji1lE2oVGAGpc6gxo8GfPmFxgU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab9" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\lab9" />
+      <recent name="E:\xampp\htdocs\lab8" />
+      <recent name="E:\xampp\htdocs\lab7\classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\lab8" />
+      <recent name="E:\xampp\htdocs\lab5" />
+      <recent name="E:\xampp\htdocs\lab5\classes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" browser="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" server_name="xampp" start_url="/form.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b8bd287-3961-4ed2-b8a5-1b1adc321125" name="Default Changelist" comment="" />
+      <created>1604272263745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604272263745</updated>
+      <workItem from="1604272263824" duration="190000" />
+      <workItem from="1604419329193" duration="720000" />
+      <workItem from="1604420950141" duration="1638000" />
+      <workItem from="1604436737767" duration="1175000" />
+      <workItem from="1604612666623" duration="4140000" />
+      <workItem from="1604617021138" duration="253000" />
+      <workItem from="1604647091337" duration="5470000" />
+      <workItem from="1605251605033" duration="3234000" />
+      <workItem from="1605256356689" duration="820000" />
+      <workItem from="1605856552409" duration="6494000" />
+      <workItem from="1606341649500" duration="962000" />
+      <workItem from="1606461337345" duration="6717000" />
+      <workItem from="1607021800263" duration="2032000" />
+      <workItem from="1607066179008" duration="6144000" />
+      <workItem from="1607549676691" duration="4638000" />
+      <workItem from="1607641923817" duration="1441000" />
+      <workItem from="1607670901946" duration="5590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="187" key="#Servers" timestamp="1604272382817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="187" key="#Servers/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604272382817" />
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604272400321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604272400321" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1604613995195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604613995195" />
+    <state x="790" y="243" key="NewPhpClassDialog" timestamp="1607069023351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="243" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1607069023351" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607676472475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1607676472475" />
+  </component>
+</project>

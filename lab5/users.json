@@ -1,0 +1,34 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullName": "Administrator",
+    "email": "admin@gmail.com",
+    "date": "2018-09-10",
+    "status": 2
+  },
+  {
+    "username": "kubus",
+    "password": "kubus",
+    "fullName": "Kubu\u015b Puchatek",
+    "email": "kubus@stumilowylas.com",
+    "date": "2019-10-30",
+    "status": 2
+  },
+  {
+    "username": "ebebe",
+    "password": "$2y$10$oEiSZDCDAGThVQckuLbSNuxeTVZcrYoeUaDL5A\/Re1MQnOkoaOid6",
+    "fullName": "Czarek P\u0142atek",
+    "email": "cezary.platek@pollub.edu.pl",
+    "date": "2020-11-13",
+    "status": 1
+  },
+  {
+    "username": "Caaa",
+    "password": "$2y$10$a.yXaU3sM0ISFZbowChk3.XSXFXoc9XwZ8asGBg.H89DL51p\/Qzpq",
+    "fullName": "Caaa Aaaa",
+    "email": "uni32406@cuoly.com",
+    "date": "2020-11-13",
+    "status": 1
+  }
+]
